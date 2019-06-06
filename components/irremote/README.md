@@ -25,4 +25,4 @@ Super simple IRRemote module for [esp-open-rtos](https://github.com/SuperHouse/e
 	```
 
 
-*
+*This is the slawekkolodzie's library. I added the const variables to use this instead of static.
