@@ -2,6 +2,9 @@
 
 # Fujitsu-AC-Homekit by Homekit Italia Group
 
-A firmware for ESP8266 to use to control Fujitsu Air Conditioner.
+A firmware for ESP8266 to use to control Fujitsu Air Conditioner. 
+the code is based on peros ac_multiple_sensors using the maxim kulkin's libraries.
 
-It's a beta version, it will be update next days with a complete guide to install it.
+A special thanks to @GPL71 and @lizzus for their support.
+
+It's a beta version, it will be update very soon with a complete guide to install and use it.
