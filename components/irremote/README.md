@@ -23,3 +23,6 @@ Super simple IRRemote module for [esp-open-rtos](https://github.com/SuperHouse/e
 	// Send raw message
 	ir_send_raw(BUFFER, BUFFER_SIZE, 38);
 	```
+
+
+*
