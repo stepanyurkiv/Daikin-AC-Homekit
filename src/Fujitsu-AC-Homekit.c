@@ -67,7 +67,7 @@ homekit_characteristic_t model = HOMEKIT_CHARACTERISTIC_(MODEL, "AirConditioner"
 
 homekit_characteristic_t serial = HOMEKIT_CHARACTERISTIC_(SERIAL_NUMBER, NULL);
 
-homekit_characteristic_t revision = HOMEKIT_CHARACTERISTIC_(FIRMWARE_REVISION, "0.0.1");
+homekit_characteristic_t revision = HOMEKIT_CHARACTERISTIC_(FIRMWARE_REVISION, "0.0.2");
 
 //GENERAL
 homekit_characteristic_t ip_addr = HOMEKIT_CHARACTERISTIC_(CUSTOM_IP_ADDR, "", .id = 109, .getter = read_ip_addr);
@@ -657,10 +657,6 @@ void on_event(homekit_event_t event) {
 
     printf("CLIENT JUST PAIRED\n");
 
-    sdk_os_timer_setfn( & extra_func_timer, sensor_worker, NULL);
-
-    sdk_os_timer_arm( & extra_func_timer, 10000, 1);
-
   }
 
 }
@@ -756,6 +752,10 @@ void user_init(void) {
   printf("SDK version:%s\n", sdk_system_get_sdk_version());
 
   hardware_init();
+
+  sdk_os_timer_setfn( & extra_func_timer, sensor_worker, NULL);
+
+  sdk_os_timer_arm( & extra_func_timer, 10000, 1);
 
   create_accessory();
 
