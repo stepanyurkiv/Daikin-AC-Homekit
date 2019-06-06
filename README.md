@@ -5,6 +5,6 @@
 A firmware for ESP8266 to use to control Fujitsu Air Conditioner. 
 the code is based on peros550 ac_multiple_sensors fw using the maxim kulkin's libraries.
 
-A special thanks to [GPL71](https://github.com/GPL71) , [lizzus](https://github.com/lizzus) and [Raven](https://github.com/RavenSystem) for their support.
+A special thanks to [GPL71](https://github.com/GPL71) , [lizzus](https://github.com/lizzus) and [RavenSystem](https://github.com/RavenSystem) for their support.
 
 It's a beta version, it will be update very soon with a complete guide to install and use it.
