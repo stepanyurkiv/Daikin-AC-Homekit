@@ -11,4 +11,4 @@ It's a beta version, it will be update very soon with a complete guide to instal
 
 If you can help me for new projects in the future i would be greateful. Thank y
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](staff-facilitator@amoresneaks.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](LLKHE73CWYV2S)
