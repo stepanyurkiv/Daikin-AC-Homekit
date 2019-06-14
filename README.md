@@ -11,4 +11,4 @@ It's a beta version, it will be update very soon with a complete guide to instal
 
 If you can help me for new projects in the future i would be greateful. Thank y
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](francesco_curletti@hotmail.it)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](AZo9OublLzitLU1QtNrAK4-D7-qbfQC5plI4RClu2rXCqRJLGoDUaosFdc213397mNKtTtOee2T-BzxK)
