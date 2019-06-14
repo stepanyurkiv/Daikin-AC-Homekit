@@ -10,4 +10,5 @@ A special thanks to [GPL71](https://github.com/GPL71) , [lizzus](https://github.
 It's a beta version, it will be update very soon with a complete guide to install and use it.
 
 If you can help me for new projects in the future i would be greateful. Thank y
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
+
+[![paypal](https://www.paypalobjects.com/en_IT/i/btn/btn_donateCC_LG.gif)](staff@amoresneaks.com)
