@@ -7,7 +7,7 @@ the code is based on peros550 ac_multiple_sensors fw using the maxim kulkin's li
 
 A special thanks to [GPL71](https://github.com/GPL71) , [lizzus](https://github.com/lizzus) and [RavenSystem](https://github.com/RavenSystem) for their support.
 
-It's a beta version, it will be update very soon with a complete guide to install and use it.
+Starting version 0.0.8 it works perfectly with my fujitsu. For other clima it needs more time.
 
 If you can help me for new projects in the future i would be greateful. Thank y
 
